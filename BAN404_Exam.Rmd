@@ -1,6 +1,6 @@
 ---
 title: "BAN404 Exam"
-author: 'Candidate: 85'
+author: ''
 date: "`r Sys.Date()`"
 output: pdf_document
 ---
